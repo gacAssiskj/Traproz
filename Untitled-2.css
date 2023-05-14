@@ -1,0 +1,11 @@
+.carousel-inner{
+    background-color: rgb(107, 29, 196);
+    margin: 1px;
+    padding: 13px;
+    width: 900px;
+    position: absolute;
+    top:50%;
+    left: 50%;
+    transform: translate(-50% , -0%)
+  }
+  

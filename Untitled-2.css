@@ -1,5 +1,30 @@
+body{
+  background-color: rgb(218, 137, 70);
+}
+
+.card-group{
+  position: absolute;
+  top: 110%;
+  left: -6px;
+  background-color: rgb(101, 24, 202);
+  margin-right: 15px;
+  margin-left: 20px;
+  padding: 5px;
+  text-align: center;
+}
+
+.mb-3 {
+  position: absolute;
+  top: 160%;
+  left: 120px;
+  background-color: rgb(255, 255, 255);
+  margin-right: 15px;
+  margin-left: 20px;
+  padding: 5px;
+  text-align: center;
+}
 .carousel-inner{
-    background-color: rgb(107, 29, 196);
+    background-color: rgb(101, 24, 202);
     margin: 1px;
     padding: 13px;
     width: 900px;
